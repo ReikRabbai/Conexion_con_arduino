@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807763831484",
+    "project_id": "arduino-b3664",
+    "storage_bucket": "arduino-b3664.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807763831484:android:f75f8882645f866c2fbeb9",
+        "android_client_info": {
+          "package_name": "com.example.conexionconarduino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVtQuUhAxysFpzF0ELawOXvQs2-6LxJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
